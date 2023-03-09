@@ -1,0 +1,4 @@
+db:
+  connection: "{connectionString: 'http://localhost:8889', userName: 'admin', password: 'pass'}"
+  host: 127.0.0.1
+  port: 1200
